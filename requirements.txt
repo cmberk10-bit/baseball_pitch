@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+mediapipe==0.10.14
+opencv-python
+moviepy
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+plotly
+python-dotenv
+google-generativeai
+pillow
