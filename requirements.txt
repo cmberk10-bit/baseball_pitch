@@ -2,8 +2,7 @@ fastapi
 uvicorn
 streamlit
 mediapipe==0.10.21
-opencv-python
-moviepy
+opencv-python-headless==4.10.0.84moviepy
 numpy
 pandas
 scikit-learn
